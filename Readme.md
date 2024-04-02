@@ -40,4 +40,5 @@
 
 ## Conclusion:
 
-### It can be concluded that more activities leads to more inclusion of student in the learning and that tends to improve their academic performance. 
+### It can be concluded that more activities leads to more inclusion of student in the learning and that tends to improve their academic performance.
+

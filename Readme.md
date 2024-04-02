@@ -36,3 +36,8 @@
 ## Output Obtained:
 
 ![HUI in Student Dataset](https://github.com/MaitriShah055/CS711_project/blob/main/image.png)
+
+
+## Conclusion:
+
+### It can be concluded that more activities leads to more inclusion of student in the learning and that tends to improve their academic performance. 

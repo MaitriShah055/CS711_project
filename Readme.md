@@ -32,3 +32,7 @@
 ### It can be used for Market Basket Analysis mainly. Also, as per our project it can be applied to analyze the performance of the student and thier participation in activities
 
 ### Moreover, it can be applied to any dataset with quantitative features. For example, to determine the association between the profit of a Company and the sale of the products.
+
+## Output Obtained:
+
+![HUI in Student Dataset](https://github.com/MaitriShah055/CS711_project/blob/main/image.png)

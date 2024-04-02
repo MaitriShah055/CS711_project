@@ -11,3 +11,24 @@
 ### High Utility Itemset Mining algorithm _Two-Phase_ was applied instead of Frequent Utility Mining algorithm _Apriori_.
 
 ### Positive Relationship between student participation in online education and Academic performance was obtained.
+
+### The output shows association between quantitative variables and the final grade of the student. With more participation in activities, students can improve their academic performance
+
+## How to run the code:
+
+### Download the dataset from the repository and save it to desired folder
+
+### Run the EDA.ipynb to visualize the relationship between features.
+
+### Run the preparation.ipynb to apply Two-phase HUIM algorithm. Change the path of Dataset to your desired location of the dataset.
+
+### Utility Table is defined as per the importance of the feature
+
+### Change the minimum Utility as per the requirement.
+
+
+## Scope of the project:
+
+### It can be used for Market Basket Analysis mainly. Also, as per our project it can be applied to analyze the performance of the student and thier participation in activities
+
+### Moreover, it can be applied to any dataset with quantitative features. For example, to determine the association between the profit of a Company and the sale of the products.
